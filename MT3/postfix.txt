@@ -1,0 +1,1 @@
+a 5 =  a 5 - 0 ==   L0 CJ a -1 =   L1  UJ  L0: a 5 - 2 ==   L2 CJ a 4 ==   L4 CJ c 0 =   L5  UJ  L4: a 3 ==   L6 CJ b 3 =  d b =  c 3 =   L7  UJ  L6: a -10 =   L7:  L5: 
